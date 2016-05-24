@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BikeSafety</string>
+    <string name="introHeading"><u>Introduction</u></string>
+    <string name="introBodyText">This is where the intro text will do.</string>
+</resources>

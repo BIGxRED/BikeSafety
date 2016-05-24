@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="25c42d4882ee11aedcbe76563eacfea2c61e4041">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b68cd5199f702bbc28bfff0fe75b094b5aa984d2/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_0519db28edadfb71440ae0f0a1ee993512186fbe/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_408bf2400780ca15391599a37b4fef26a5e12cf4/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_ac7a31fbdda31ee98931f917e098d8e8817e7da0/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_7d057a64b8d326c13b010b87a39a5012e9889f42/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_79b561ae5376c2f82db72eaf75f704d8e9456f37/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f09056036ad70808ab5a63ce7070760dd7892760/classes.dex" />
+    </item>
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6254ebad526d7a5cc70ca2d89323aac3ad02e7c6">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bff4bf4c5b6f40d5b3e183ec622bf8ea59471e9f/classes.dex" />
+    </item>
+
+</items>
