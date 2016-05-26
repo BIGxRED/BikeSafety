@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">BikeSafety</string>
-    <string name="introHeading"><u>Introduction</u></string>
-    <string name="introBodyText">This is where the intro text will do.</string>
+    <string name="introHeading"><u>Welcome</u></string>
+    <string name="introBodyText">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
+        The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
+        commuters increased by 70% across the United States. \n\n\tHowever, it is important not to rush into the stream of all the bikers
+        around you before considering your safety. Biking can be just as safe as driving as long as you follow the laws and
+        apply common sense.</string>
 </resources>

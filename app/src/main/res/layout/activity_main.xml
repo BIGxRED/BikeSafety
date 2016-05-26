@@ -12,11 +12,12 @@
 
     <TextView
         style="@style/HeaderText"
-        android:text="@string/introHeading"
-        android:paddingBottom="24dp"/>
+        android:text="@string/introHeading"/>
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        style="@style/BodyText"
         android:text="@string/introBodyText"/>
+    <Button
+        style="@style/NextButton"/>
+
 
 </LinearLayout>
