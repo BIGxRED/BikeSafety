@@ -221,6 +221,10 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">BikeSafety</string>
+    <string name="fact1_body">\tGeneral rules of the road from vehicular driving also apply to bicycles. They are considered road vehicles just like
+        cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.
+</string>
+    <string name="fact1_header">General Rules of the Road</string>
     <string name="introBodyText">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
         The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
         commuters increased by 70% across the United States. \n\n\tHowever, it is important not to rush into the stream of all the bikers
@@ -228,6 +232,7 @@
         apply common sense.</string>
     <string name="introHeading"><u>Welcome</u></string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_slide1">Slide 1</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

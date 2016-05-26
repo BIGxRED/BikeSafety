@@ -150,5 +150,9 @@
     {
         "merged": "/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/merged/debug/layout/activity_slide1.xml",
+        "source": "/home/mike/AndroidStudioProjects/BikeSafety/app/src/main/res/layout/activity_slide1.xml"
     }
 ]

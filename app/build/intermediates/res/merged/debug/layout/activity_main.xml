@@ -17,7 +17,8 @@
         style="@style/BodyText"
         android:text="@string/introBodyText"/>
     <Button
-        style="@style/NextButton"/>
+        style="@style/NextButton"
+        android:onClick="slide1"/>
 
 
 </LinearLayout>

@@ -8,17 +8,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.android.bikesafety.MainActivity">
+    tools:context="com.example.android.bikesafety.Slide1">
 
     <TextView
         style="@style/HeaderText"
-        android:text="@string/introHeading"/>
+        android:text="@string/fact1_header"/>
+
     <TextView
         style="@style/BodyText"
-        android:text="@string/introBodyText"/>
-    <Button
-        style="@style/NextButton"
-        android:onClick="slide1"/>
-
+        android:text="@string/fact1_body"/>
 
 </LinearLayout>
