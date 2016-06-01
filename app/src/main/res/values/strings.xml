@@ -10,5 +10,14 @@
     <string name="fact1_header">General Rules of the Road</string>
     <string name="fact1_body">\tGeneral rules of the road from vehicular driving also apply to bicycles. They are considered road vehicles just like
         cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.
-</string>
+    </string>
+    <string name="fact2_header">Always Wear a Helmet!</string>
+    <string name="fact2_body">\tThis should be blatantly obvious: always wear a helmet! When you first place the helmet on without snapping in the
+        straps, it should wiggle with minimal movement when you shake your head. There should be two finger widths of space between your eyebrows
+        and helmet. Once you snap on the straps, they should form a Y-shape just below your ears. The helmet should feel comfortable yet snug.
+    </string>
+    <string name="fact3_header">Passing from the Left</string>
+    <string name="fact3_body">\tWhenever passing a vehicle, always pass on the left (driver side). This prevents you from placing yourself inside
+        of the driver’s blind spot. Instead, you’re more likely to be within their field of view.
+    </string>
 </resources>

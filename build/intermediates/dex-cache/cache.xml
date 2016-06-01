@@ -2,11 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="446a066507f2dfd70900dd7eb9e1325146cbbfaf">
-        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b68cd5199f702bbc28bfff0fe75b094b5aa984d2/classes.dex" />
+        sha1="28337d149e8aea0fb3fc28653ef09a5d21f4d009">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3f9bf0a27cfc7c46320378baefa73e0c9ec64d31\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_9150f869cdedbfde3828edea39fa633da9053f19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\qnp684\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_081bded7dc3ec4f8cd8c540b9b1de47ff8ee4acf\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_0606c2c57305f908244327f75de90b2955441f7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_152102645b3a718d1939b68c94218146eb908419\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_259776f646862320b6c67ec3fb0bd065c2efee3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2274126105507e583361c938618fcb9b8c4cba63">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8d01873d93b162f2c18baaf9dde68825a561f42\classes.dex" />
+    </item>
+    <item
+        jar="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_3a17b1f81af009511018b5c921c5356f3725dfd2\classes.dex" />
     </item>
 
 </items>
