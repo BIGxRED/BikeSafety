@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.android.bikesafety.Slide1"
+            android:name="com.example.android.bikesafety.Facts"
             android:label="@string/fact1_header"
             android:parentActivityName="com.example.android.bikesafety.MainActivity" >
         </activity>

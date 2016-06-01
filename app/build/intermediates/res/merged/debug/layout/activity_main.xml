@@ -18,7 +18,7 @@
         android:text="@string/introBodyText"/>
     <Button
         style="@style/NextButton"
-        android:onClick="slide1"/>
+        android:onClick="displayFacts"/>
 
 
 </LinearLayout>

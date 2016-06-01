@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void slide1(View view){
-        Intent intent = new Intent(this, Slide1.class);
+    public void displayFacts(View view){
+        Intent intent = new Intent(this, Facts.class);
         startActivity(intent);
     }
 }

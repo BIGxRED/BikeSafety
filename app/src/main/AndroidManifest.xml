@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Slide1"
+            android:name=".Facts"
             android:label="@string/fact1_header"
             android:parentActivityName=".MainActivity">
         </activity>

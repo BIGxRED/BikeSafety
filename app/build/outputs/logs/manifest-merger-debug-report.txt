@@ -48,14 +48,14 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:17:27-74
-activity#com.example.android.bikesafety.Slide1
+activity#com.example.android.bikesafety.Facts
 ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:20:9-24:20
 	android:label
 		ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:22:13-49
 	android:parentActivityName
 		ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:23:13-55
 	android:name
-		ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:21:13-35
+		ADDED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml:21:13-34
 uses-sdk
 INJECTED from C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.3.0] C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78

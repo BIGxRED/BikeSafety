@@ -16,10 +16,6 @@
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide1.xml",
-        "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\src\\main\\res\\layout\\activity_slide1.xml"
-    },
-    {
         "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
@@ -128,6 +124,10 @@
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_facts.xml",
+        "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\src\\main\\res\\layout\\activity_facts.xml"
+    },
+    {
         "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -144,12 +144,12 @@
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\cygwin64\\home\\qnp684\\AndroidStudioProjects\\BikeSafety\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
