@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6797345050873adc0f8aa487457d563a4c18058">
+        <dex dex="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b68cd5199f702bbc28bfff0fe75b094b5aa984d2/classes.dex" />
+    </item>
+
+</items>

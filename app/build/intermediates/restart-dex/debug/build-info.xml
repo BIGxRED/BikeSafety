@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="420dpi"
+    density="560dpi"
     format="7"
-    timestamp="3596549356928" >
+    timestamp="13229359555328" >
 
     <task
         name="javac"
@@ -20,18 +20,18 @@
         duration="0" />
 
     <artifact
-        location="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="3364248346031" >
+    <build timestamp="12444227549297" >
         <artifact
-            location="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\outputs\apk\app-debug.apk"
+            location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="3596549356928" >
+    <build timestamp="13229359555328" >
         <artifact
-            location="C:\cygwin64\home\qnp684\AndroidStudioProjects\BikeSafety\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
+            location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

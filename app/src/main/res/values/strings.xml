@@ -1,12 +1,15 @@
 <resources>
-    <string name="app_name">BikeSafety</string>
+    <string name="app_name">Bike Safety</string>
     <string name="introHeading"><u>Welcome</u></string>
-    <string name="introBodyText">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
+    <string name="introBodyText1">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
         The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
-        commuters increased by 70% across the United States. \n\n\tHowever, it is important not to rush into the stream of all the bikers
+        commuters increased by 70% across the United States.
+    </string>
+     <string name="introBodyText2">\tHowever, it is important not to rush into the stream of all the bikers
         around you before considering your safety. Biking can be just as safe as driving as long as you follow the laws and
-        apply common sense.</string>
-    <string name="title_slide1">Slide 1</string>
+        apply common sense.
+     </string>
+    <!--<string name="title_slide1">Slide 1</string>-->
     <string name="fact1_header">General Rules of the Road</string>
     <string name="fact1_body">\tGeneral rules of the road from vehicular driving also apply to bicycles. They are considered road vehicles just like
         cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.

@@ -14,11 +14,12 @@
         style="@style/HeaderText"
         android:text="@string/introHeading"/>
     <TextView
+        android:id="@+id/welcomeTextBody"
         style="@style/BodyText"
-        android:text="@string/introBodyText"/>
+        android:text="@string/introBodyText1"/>
     <Button
         style="@style/NextButton"
-        android:onClick="displayFacts"/>
+        android:onClick="displayText"/>
 
 
 </LinearLayout>

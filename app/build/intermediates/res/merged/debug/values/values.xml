@@ -220,7 +220,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">BikeSafety</string>
+    <string name="app_name">Bike Safety</string>
     <string name="fact1_body">\tGeneral rules of the road from vehicular driving also apply to bicycles. They are considered road vehicles just like
         cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.
     </string>
@@ -234,14 +234,16 @@
         of the driver’s blind spot. Instead, you’re more likely to be within their field of view.
     </string>
     <string name="fact3_header">Passing from the Left</string>
-    <string name="introBodyText">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
+    <string name="introBodyText1">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
         The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
-        commuters increased by 70% across the United States. \n\n\tHowever, it is important not to rush into the stream of all the bikers
+        commuters increased by 70% across the United States.
+    </string>
+    <string name="introBodyText2">\tHowever, it is important not to rush into the stream of all the bikers
         around you before considering your safety. Biking can be just as safe as driving as long as you follow the laws and
-        apply common sense.</string>
+        apply common sense.
+     </string>
     <string name="introHeading"><u>Welcome</u></string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_slide1">Slide 1</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1212,7 +1214,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textSize">@dimen/body_text</item>
         <item name="android:textColor">@color/textSecondary</item>
-        <item name="android:layout_weight">3</item>
+        <item name="android:layout_weight">1</item>
     </style>
     <style name="HeaderText">
         <item name="android:layout_width">match_parent</item>
@@ -1221,8 +1223,9 @@
         <item name="android:textColor">@color/textPrimary</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textAllCaps">true</item>
-        <item name="android:layout_weight">1</item>
+        <!--<item name="android:layout_weight">1</item>-->
         <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingBottom">32dp</item>
     </style>
     <style name="NextButton">
         <item name="android:layout_width">wrap_content</item>

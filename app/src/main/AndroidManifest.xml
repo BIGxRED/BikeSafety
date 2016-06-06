@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="Welcome!">
+            android:label="Bike Safety">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,7 +19,7 @@
         </activity>
         <activity
             android:name=".Facts"
-            android:label="@string/fact1_header"
+            android:label="Bike Safety"
             android:parentActivityName=".MainActivity">
         </activity>
     </application>
