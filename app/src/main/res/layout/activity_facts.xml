@@ -20,8 +20,21 @@
         style="@style/BodyText"
         android:text="@string/fact1_body"/>
 
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
     <Button
+        android:id="@+id/previousButton"
+        style="@style/PreviousButton"
+        android:onClick="previousFact"/>
+
+    <Button
+        android:id="@+id/nextButton"
         style="@style/NextButton"
-        android:onClick="displayFacts"/>
+        android:onClick="nextFact"/>
+
+</RelativeLayout>
 
 </LinearLayout>

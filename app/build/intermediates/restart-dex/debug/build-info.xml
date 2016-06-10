@@ -4,34 +4,34 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="13229359555328" >
+    timestamp="30283885662636" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="117" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="25" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-        location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
+        location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
 
-    <build timestamp="12444227549297" >
+    <build timestamp="29511049504514" >
         <artifact
             location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="13229359555328" >
+    <build timestamp="30283885662636" >
         <artifact
-            location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
+            location="/home/mike/AndroidStudioProjects/BikeSafety/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

@@ -240,7 +240,7 @@
     </string>
     <string name="introBodyText2">\tHowever, it is important not to rush into the stream of all the bikers
         around you before considering your safety. Biking can be just as safe as driving as long as you follow the laws and
-        apply common sense.
+        apply common sense. Here are 5 tips which should put you along the right path to a safe ride.
      </string>
     <string name="introHeading"><u>Welcome</u></string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1231,7 +1231,7 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:text">next</item>
-        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_alignParentRight">true</item>
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1331,6 +1331,13 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
+    <style name="PreviousButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">previous</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:visibility">invisible</item>
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">

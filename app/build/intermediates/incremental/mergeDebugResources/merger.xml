@@ -1390,7 +1390,7 @@
         of the driver’s blind spot. Instead, you’re more likely to be within their field of view.
     </string><string name="fact3_header">Passing from the Left</string><string name="introBodyText2">\tHowever, it is important not to rush into the stream of all the bikers
         around you before considering your safety. Biking can be just as safe as driving as long as you follow the laws and
-        apply common sense.
+        apply common sense. Here are 5 tips which should put you along the right path to a safe ride.
      </string><string name="fact1_body">\tGeneral rules of the road from vehicular driving also apply to bicycles. They are considered road vehicles just like
         cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.
     </string><string name="introBodyText1">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
@@ -1415,7 +1415,13 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:text">next</item>
-        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style><style name="PreviousButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">previous</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:visibility">invisible</item>
     </style><style name="BodyText">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>

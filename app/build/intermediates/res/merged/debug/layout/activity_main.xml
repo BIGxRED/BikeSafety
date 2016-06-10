@@ -17,9 +17,23 @@
         android:id="@+id/welcomeTextBody"
         style="@style/BodyText"
         android:text="@string/introBodyText1"/>
-    <Button
-        style="@style/NextButton"
-        android:onClick="displayText"/>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/previousButton"
+            style="@style/PreviousButton"
+            android:onClick="previousText"/>
+
+        <Button
+            android:id="@+id/nextButton"
+            style="@style/NextButton"
+            android:onClick="nextText"/>
+
+    </RelativeLayout>
 
 
 </LinearLayout>
