@@ -234,6 +234,17 @@
         of the driver’s blind spot. Instead, you’re more likely to be within their field of view.
     </string>
     <string name="fact3_header">Passing from the Left</string>
+    <string name="fact4_body">\tIf you are about to change into a different lane, be sure to look behind you before doing so. While looking back,
+        try your best to continuing biking in a straight line. The combination of looking back and biking straight is a technique that is sometimes
+        known as “scanning”.
+    </string>
+    <string name="fact4_header">Changing Lanes</string>
+    <string name="fact5_body">\tBe sure to properly place yourself in a lane. If a bike lane is available, use it! Your community designed them to
+        keep bikers such as yourself away from harms away. Otherwise, the law in most states is for bikers to stay as far to the right as possible.
+        However, if the road is particularly narrow, do not be afraid to use the entire lane. Your safety is a higher priority than the convenience
+        of vehicular drivers.
+    </string>
+    <string name="fact5_header">Lane Usage</string>
     <string name="introBodyText1">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
         The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
         commuters increased by 70% across the United States.
@@ -243,6 +254,18 @@
         apply common sense. Here are 5 tips which should put you along the right path to a safe ride.
      </string>
     <string name="introHeading"><u>Welcome</u></string>
+    <string name="reference1"><a href="http://bicyclesafe.com/index.html">Michael Bluejay’s Guide</a>: Great guide for avoiding being hit in various
+        situations. Also provides notable advice in general.
+    </string>
+    <string name="reference2"><a href="http://bikeleague.org/content/rules-road-0">The League of American Bicyclists</a>: Their information is a bit vague
+        but their videos and other resources (classes and biking guides) are useful.
+    </string>
+    <string name="reference3"><a href="http://greatist.com/fitness/bicycle-safety-101">Article by Sophia Breene</a>: More helpful information. Check out if
+        you live in the best (or worst :/) cities for biking!
+    </string>
+    <string name="reference4"><a href="http://www.nhtsa.gov/people/injury/pedbimot/bike/kidsandbikesafetyweb/">National HIghway Traffic Safety Administration</a>:
+        Additional safety information provided by the NHTSA.
+    </string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

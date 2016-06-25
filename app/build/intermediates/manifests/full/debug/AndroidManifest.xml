@@ -28,6 +28,11 @@
             android:label="Bike Safety"
             android:parentActivityName="com.example.android.bikesafety.MainActivity" >
         </activity>
+        <activity
+            android:name="com.example.android.bikesafety.References"
+            android:label="Bike Safety"
+            android:parentActivityName="com.example.android.bikesafety.Facts" >
+        </activity>
     </application>
 
 </manifest>
