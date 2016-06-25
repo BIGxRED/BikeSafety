@@ -16,30 +16,36 @@
 
     <TextView
         android:id="@+id/reference1"
+        style="@style/BodyText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/reference1"
-        style="@style/BodyText"/>
+        android:text="@string/reference1"/>
 
     <TextView
         android:id="@+id/reference2"
+        style="@style/BodyText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/reference2"
-        style="@style/BodyText"/>
+        android:text="@string/reference2"/>
 
     <TextView
         android:id="@+id/reference3"
+        style="@style/BodyText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/reference3"
-        style="@style/BodyText"/>
+        android:text="@string/reference3"/>
 
     <TextView
         android:id="@+id/reference4"
+        style="@style/BodyText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/reference4"
-        style="@style/BodyText"/>
+        android:text="@string/reference4"/>
+
+    <TextView
+        android:id="@+id/iconReference"
+        style="@style/IconReferenceText"
+        android:text="@string/icon_reference"/>
+
 
 </LinearLayout>

@@ -183,6 +183,7 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="icon_reference_text">14sp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
@@ -225,26 +226,30 @@
         cars and trucks. Therefore, be sure to always: stop at a red light, stay within your lane, make a complete stop at stop signs, etc.
     </string>
     <string name="fact1_header">General Rules of the Road</string>
-    <string name="fact2_body">\tThis should be blatantly obvious: always wear a helmet! When you first place the helmet on without snapping in the
+    <string name="fact2_body">\tThis should be quite obvious: Always wear a helmet! When you first place the helmet on without snapping in the
         straps, it should wiggle with minimal movement when you shake your head. There should be two finger widths of space between your eyebrows
-        and helmet. Once you snap on the straps, they should form a Y-shape just below your ears. The helmet should feel comfortable yet snug.
+        and the rim of the helmet. Once you snap on the straps, they should form a Y-shape just below your ears. The helmet should feel comfortable
+        yet snug.
     </string>
-    <string name="fact2_header">Always Wear a Helmet!</string>
-    <string name="fact3_body">\tWhenever passing a vehicle, always pass on the left (driver side). This prevents you from placing yourself inside
-        of the driver’s blind spot. Instead, you’re more likely to be within their field of view.
+    <string name="fact2_header">Always Wear a Helmet</string>
+    <string name="fact3_body">\tWhenever passing a vehicle, always pass from the left (driver side). You\'re more likely to be within their field of
+        view by not placing yourself into the driver\'s blind spot. This is critical. If you do the opposite and pass from the right, you will
+        be in a dangerous position by being outside of the driver\'s view.
     </string>
     <string name="fact3_header">Passing from the Left</string>
     <string name="fact4_body">\tIf you are about to change into a different lane, be sure to look behind you before doing so. While looking back,
-        try your best to continuing biking in a straight line. The combination of looking back and biking straight is a technique that is sometimes
-        known as “scanning”.
+        try your best to continue biking in a straight line. Once you\'ve ensured that no car is near you, smoothly transition yourself into the next lane.
+        The combination of looking back and biking straight is a technique that is sometimes known as “scanning”.
     </string>
     <string name="fact4_header">Changing Lanes</string>
     <string name="fact5_body">\tBe sure to properly place yourself in a lane. If a bike lane is available, use it! Your community designed them to
-        keep bikers such as yourself away from harms away. Otherwise, the law in most states is for bikers to stay as far to the right as possible.
+        keep bikers such as yourself out of harm\'s way. Otherwise, the law in most states is for bikers to stay as far to the right as possible.
         However, if the road is particularly narrow, do not be afraid to use the entire lane. Your safety is a higher priority than the convenience
         of vehicular drivers.
     </string>
     <string name="fact5_header">Lane Usage</string>
+    <string name="icon_reference"><a href="https://icons8.com/">Icons8</a>: Resource for app icon
+    </string>
     <string name="introBodyText1">\tIn today’s time, biking is becoming a more common means of transportation than ever before.
         The number of bikers has grown significantly within the past few years: between 2000 and 2009, the number of regular bike
         commuters increased by 70% across the United States.
@@ -257,13 +262,13 @@
     <string name="reference1"><a href="http://bicyclesafe.com/index.html">Michael Bluejay’s Guide</a>: Great guide for avoiding being hit in various
         situations. Also provides notable advice in general.
     </string>
-    <string name="reference2"><a href="http://bikeleague.org/content/rules-road-0">The League of American Bicyclists</a>: Their information is a bit vague
-        but their videos and other resources (classes and biking guides) are useful.
+    <string name="reference2"><a href="http://bikeleague.org/content/rules-road-0">The League of American Bicyclists</a>: Their videos and other
+        resources (classes and biking guides) are useful.
     </string>
-    <string name="reference3"><a href="http://greatist.com/fitness/bicycle-safety-101">Article by Sophia Breene</a>: More helpful information. Check out if
-        you live in the best (or worst :/) cities for biking!
+    <string name="reference3"><a href="http://greatist.com/fitness/bicycle-safety-101">Article by Sophia Breene</a>: More helpful information. Check
+        it out to see if you live in the best (or worst?) cities for biking.
     </string>
-    <string name="reference4"><a href="http://www.nhtsa.gov/people/injury/pedbimot/bike/kidsandbikesafetyweb/">National HIghway Traffic Safety Administration</a>:
+    <string name="reference4"><a href="http://www.nhtsa.gov/people/injury/pedbimot/bike/kidsandbikesafetyweb/">National Highway Traffic Safety Administration</a>:
         Additional safety information provided by the NHTSA.
     </string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1246,9 +1251,15 @@
         <item name="android:textColor">@color/textPrimary</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textAllCaps">true</item>
-        <!--<item name="android:layout_weight">1</item>-->
         <item name="android:gravity">center_horizontal</item>
         <item name="android:paddingBottom">32dp</item>
+    </style>
+    <style name="IconReferenceText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/icon_reference_text</item>
+        <item name="android:textColor">@color/textSecondary</item>
+        <item name="android:gravity">right</item>
     </style>
     <style name="NextButton">
         <item name="android:layout_width">wrap_content</item>
