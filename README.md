@@ -4,7 +4,10 @@ It is a very simply Android app that was done in order to introduce some of the 
 The app was created as the final project for the Udacity Android Development for Beginners course.
 
 No external libraries or additional dependencies are needed in order to run the app. Simply compile the code and 
-run using Android Studio. 
+run using Android Studio.
+
+The project has also been uploaded onto the following GitHub repo:
+https://github.com/BIGxRED/BikeSafety 
 
 A few special things worth mentioning about this app:
 	1. Prior to creating the app, I had some experience with Java. Hence, in some instances, the coding that was used
