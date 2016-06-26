@@ -1,7 +1,10 @@
 ###Bike Safety###
 This app was designed in order to educate the user with a few general tips on how to safely ride a bike on the road.
 It is a very simply Android app that was done in order to introduce some of the basic elements of Android development.
-The app was created as the final project for the Udacity Android Development for Beginners course. 
+The app was created as the final project for the Udacity Android Development for Beginners course.
+
+No external libraries or additional dependencies are needed in order to run the app. Simply compile the code and 
+run using Android Studio. 
 
 A few special things worth mentioning about this app:
 	1. Prior to creating the app, I had some experience with Java. Hence, in some instances, the coding that was used
